@@ -1,0 +1,9 @@
+# Only reviewed source code and execution documentation may be tracked.
+/*
+!/.gitignore
+!/README.md
+!/run_analysis.R
+!/check_code.R
+!/work/
+/work/*
+!/work/*.R
